@@ -26,3 +26,14 @@ summary(cars)
 plot(cars)
 ```
 
+## Gráfico con ggplot2
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(ggplot2)
+library(dplyr)
+iris %>% ggplot(aes(x = Sepal.Length, y = Petal.Length, shape=Species,col=Species))+geom_point(size=4)
+
+```
+
+
+
