@@ -35,5 +35,11 @@ iris %>% ggplot(aes(x = Sepal.Length, y = Petal.Length, shape=Species,col=Specie
 
 ```
 
+## Mapa interactivo con Leaflet
+
+```{r out.width='100%', fig.height=6, eval=require('leaflet'), echo=FALSE}
+library(leaflet)
+leaflet() %>% addTiles() %>% setView(-74.0841, 4.63858, zoom = 16)
+```
 
 
