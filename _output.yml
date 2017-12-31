@@ -4,3 +4,6 @@ revealjs::revealjs_presentation:
   highlight: tango
   center: true
   transition: zoom
+  reveal_options:
+    slideNumber: true
+  
