@@ -42,4 +42,11 @@ library(leaflet)
 leaflet() %>% addTiles() %>% setView(-74.0841, 4.63858, zoom = 16)
 ```
 
+## Tabla interactiva con DT
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(DT)
+datatable(iris)
+```
+
 
