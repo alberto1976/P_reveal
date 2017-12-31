@@ -1,5 +1,6 @@
 revealjs::revealjs_presentation:
   lib_dir: libs
   theme: beige
-  highlight: pygments
+  highlight: tango
   center: true
+  transition: zoom
