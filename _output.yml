@@ -1,5 +1,5 @@
 revealjs::revealjs_presentation:
   lib_dir: libs
-  theme: sky
+  theme: beige
   highlight: pygments
   center: true
