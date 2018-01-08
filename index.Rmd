@@ -31,7 +31,7 @@ plot(cars)
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(ggplot2)
 library(dplyr)
-iris %>% ggplot(aes(x = Sepal.Length, y = Petal.Length, shape=Species,col=Species))+geom_point(size=4)
+iris %>% ggplot(aes(x = Sepal.Length, y = Petal.Length, shape=Species,col=Species))+geom_point(size=4)+scale_colour_manual(values=c("gray", "blue", "red"))
 
 ```
 
