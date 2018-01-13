@@ -26,7 +26,7 @@ summary(cars)
 ## Diapositiva con un gráfico
 
 ```{r, echo=FALSE}
-plot(cars)
+plot(iris$Sepal.Length, col = "green", type = "h", lwd =3)
 ```
 
 ## Gráfico con ggplot2
