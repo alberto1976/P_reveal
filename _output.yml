@@ -3,7 +3,7 @@ revealjs::revealjs_presentation:
   theme: white
   highlight: tango
   center: true
-  transition: zoom
+  transition: convex
   reveal_options:
     slideNumber: true
   
