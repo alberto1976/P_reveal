@@ -36,7 +36,7 @@ plot(iris$Sepal.Length, col = "green", type = "h", lwd =3)
 library(ggplot2)
 library(dplyr)
 library(RColorBrewer)
-iris %>% ggplot(aes(x = Sepal.Length, y = Petal.Length, shape=Species,col=Species))+geom_point(size=4)+scale_colour_brewer(palette = "Set1")
+iris %>% ggplot(aes(x = Sepal.Length, y = Petal.Length, shape=Species,col=Species))+geom_point(size=4)+scale_colour_brewer(palette = "Dark2")
 
 ```
 
