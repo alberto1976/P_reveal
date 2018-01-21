@@ -55,3 +55,6 @@ datatable(iris)
 ```
 
 
+## Mapa con enlaces 
+
+[Mapa](https://alberto1976.github.io/Prueba_html/Salidas/J1_G2_I1_ESTRATO_F5.html)
