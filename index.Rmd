@@ -12,7 +12,7 @@ This is an R Markdown presentation. Markdown is a simple formatting syntax for a
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
 
-## Slide with Bullets
+## Slide with Bullets Primeros
 
 - Bullet 1
 - Bullet 2
