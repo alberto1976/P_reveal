@@ -6,7 +6,7 @@ author: Alberto Rordíguez R
 
 Esta presentación contiene algunos detalles sobre cómo hacer presentaciones en R a través del paquete Revealjs. Para mayores detalles sobre la funcionalidad de esta librería ir al siguiente [link](https://github.com/rstudio/revealjs) o ver el contenido del siguiente [video](https://www.youtube.com/watch?v=Ef3JnV80hAE&feature=youtu.be) en donde se presentan las generalidades de la librería base disponible en **JavaScrip**
 
-## R Markdown
+## R Markdown Final
 
 This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
