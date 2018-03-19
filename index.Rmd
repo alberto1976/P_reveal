@@ -18,7 +18,7 @@ When you click the **Knit** button a document will be generated that includes bo
 - Bullet 2
 - Bullet 3
 
-## Slide with R Code and Output
+## Slide con código R Brazo1
 
 ```{r}
 summary(cars)
