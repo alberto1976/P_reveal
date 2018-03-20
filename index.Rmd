@@ -61,4 +61,4 @@ datatable(iris)
 * [Barras Paralelas](https://alberto1976.github.io/Prueba_html/Salidas/J1_G2_I1_PEAMA_F5.html)
 * [Mapa](https://estadisticaun.github.io/Graficos/Mapas/J1_G2_I1RESI_%20COL21_F15.html)
 
-## Nueva diapositiva
+## Diapositiva final
